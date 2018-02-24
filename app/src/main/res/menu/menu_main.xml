@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sb="http://schemas.android.com/apl/res-auto">
+
+
+    <item
+        android:id="@+id/choose_mode"
+        android:orderInCategory="100"
+        sb:showAsAction="never"
+        android:title="@string/choose_mode"/>
+
+    <item
+        android:id="@+id/server_url_menu"
+        android:orderInCategory="100"
+        sb:showAsAction="never"
+        android:title="@string/server_url"/>
+    <item
+        android:id="@+id/server_req_focus"
+        android:orderInCategory="100"
+        sb:showAsAction="never"
+        android:title="@string/server_req_focus"/>
+    <item
+        android:id="@+id/server_req_unfocus"
+        android:orderInCategory="100"
+        sb:showAsAction="never"
+        android:title="@string/server_req_unfocus"/>
+
+    <item
+        android:id="@+id/about_menu"
+        android:orderInCategory="100"
+        sb:showAsAction="never"
+        android:title="@string/about"/>
+    
+</menu>

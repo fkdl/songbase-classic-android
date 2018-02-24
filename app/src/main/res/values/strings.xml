@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Songbase Servant for Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="server_url">Server URL</string>
+    <string name="preview_mode">Page Preview Mode</string>
+    <string name="fast_loose_mode">Fast and Loose Mode</string>
+    <string name="choose_mode">Choose Preview Mode</string>
+    <string name="server_req_focus">Request Server Focus</string>
+    <string name="server_req_unfocus">Request Server Un-Focus</string>
+</resources>
